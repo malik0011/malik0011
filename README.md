@@ -49,7 +49,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malik0011&show_icons=true&theme=radical"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malik0011&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik0011&layout=compact&theme=radical&hide=html"/>
 </p>
 
