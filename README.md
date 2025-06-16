@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Malik</h1>
 <p align="center">
-  <em>Android Developer • Compose Enthusiast • Building Impactful Tech with Love ❤️</em><br>
+  <em>Android Developer • JetPack Compose • Kotlin • Building Impactful Tech with Love ❤️</em><br>
   <em>Currently @TheCEOMagazine | Ex-Rooter</em>
 </p>
 
